@@ -1,0 +1,1 @@
+terraform import aws_instance.ec2_example i-01267a9a7643df266
